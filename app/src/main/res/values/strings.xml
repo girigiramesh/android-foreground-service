@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Foreground_service_android_example</string>
+    <string name="start_foreground">Start Foreground Service</string>
+    <string name="mainScreen">Main Screen</string>
+    <string name="stop_foreground">Stop Foreground Service</string>
+</resources>
